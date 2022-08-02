@@ -1,0 +1,27 @@
+.table {
+    border-spacing: 0px;
+    border-collapse: separate;
+    caption-side: top;
+}
+
+.table {
+    text-align: left;
+    border-left: 1px solid var(--gray-400);
+    border-right: 1px solid var(--gray-400);
+}
+
+.table tr {
+    height: 50px;
+}
+
+.table td,
+.table th {
+    padding: 15px;
+    border-bottom: 1px solid var(--gray-400);
+}
+
+.table th {
+    font-weight: 400;
+    color: var(--black-700);
+    border-top: 1px solid var(--gray-400);
+}

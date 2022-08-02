@@ -1,0 +1,38 @@
+.info {
+    width: 700px;
+    margin: auto;
+    padding: 0 10px;
+
+    border: 1px solid var(--gray-400);
+}
+
+.row {
+    padding: 10px 0;
+    display: flex;
+}
+
+.row:not(.row:last-child) {
+    border-bottom: 1px solid var(--gray-400);
+}
+
+.label {
+    width: 200px;
+    flex-shrink: 0;
+}
+
+@media only screen and (max-width: 578px) {
+    .info {
+        font-size: 2em;
+    }
+    
+    .row {
+        flex-direction: column;
+    }
+
+    .label {
+        width: 100%;
+        margin-bottom: 22px;
+
+        font-weight: bold;
+    }
+}

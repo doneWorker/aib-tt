@@ -1,0 +1,19 @@
+.coin {
+    cursor: pointer;
+}
+
+.coin .cell {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.coin img {
+    width: 25px;
+    height: 25px;
+    margin-right: 15px;
+}
+
+.coin:hover {
+    background: var(--gray-200);
+}
