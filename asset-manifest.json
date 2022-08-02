@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aib-tt/static/css/main.350d6223.css",
+    "main.js": "/aib-tt/static/js/main.0c8cc421.js",
+    "static/js/787.da2927c7.chunk.js": "/aib-tt/static/js/787.da2927c7.chunk.js",
+    "index.html": "/aib-tt/index.html",
+    "main.350d6223.css.map": "/aib-tt/static/css/main.350d6223.css.map",
+    "main.0c8cc421.js.map": "/aib-tt/static/js/main.0c8cc421.js.map",
+    "787.da2927c7.chunk.js.map": "/aib-tt/static/js/787.da2927c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.350d6223.css",
+    "static/js/main.0c8cc421.js"
+  ]
+}
