@@ -12,3 +12,7 @@
 - Prettier consistency of code
 - CSS modules
 - Small utils called classNames
+
+ # URLS
+ - /list - show a list of coins
+ - /coin/{id} - show info about sppecific coin
