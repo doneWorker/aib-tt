@@ -4,6 +4,9 @@
 
 `yarn start`
 
+create `.env` file in the root and add following code:
+`REACT_APP_API_URL=https://api.coingecko.com/api/v3`
+
 # Tools'n libs
 
 - React as a main library
